@@ -1,0 +1,235 @@
+dept_name,calendar_year,gender,avg_salary
+Marketing,1990,M,58895.85
+Marketing,1990,F,57358.31
+Marketing,1991,M,59232.75
+Marketing,1991,F,57670.20
+Marketing,1992,M,59743.08
+Marketing,1992,F,59755.19
+Marketing,1993,M,60436.85
+Marketing,1993,F,60879.25
+Marketing,1994,M,64547.55
+Marketing,1994,F,61673.05
+Marketing,1995,M,65377.05
+Marketing,1995,F,63080.14
+Marketing,1996,M,66467.56
+Marketing,1996,F,63678.94
+Marketing,1997,M,67253.18
+Marketing,1997,F,64402.33
+Marketing,1998,M,66332.51
+Marketing,1998,F,65582.10
+Marketing,1999,M,67594.58
+Marketing,1999,F,66361.30
+Marketing,2000,M,73248.01
+Marketing,2000,F,68347.80
+Marketing,2001,M,75364.26
+Marketing,2001,F,70363.80
+Marketing,2002,M,77525.24
+Marketing,2002,F,71984.04
+Finance,1990,M,57643.56
+Finance,1990,F,56502.18
+Finance,1991,M,56426.53
+Finance,1991,F,58490.73
+Finance,1992,M,58294.62
+Finance,1992,F,58536.58
+Finance,1993,M,59036.87
+Finance,1993,F,59552.54
+Finance,1994,M,62926.06
+Finance,1994,F,60829.02
+Finance,1995,M,64161.47
+Finance,1995,F,61103.05
+Finance,1996,M,65447.59
+Finance,1996,F,62151.46
+Finance,1997,M,66108.29
+Finance,1997,F,62924.74
+Finance,1998,M,65170.73
+Finance,1998,F,64103.31
+Finance,1999,M,66548.04
+Finance,1999,F,65253.63
+Finance,2000,M,72095.66
+Finance,2000,F,67159.97
+Finance,2001,M,74134.44
+Finance,2001,F,69267.87
+Finance,2002,M,76027.38
+Finance,2002,F,70989.36
+"Human Resources",1990,M,40998.23
+"Human Resources",1990,F,40972.99
+"Human Resources",1991,M,42164.28
+"Human Resources",1991,F,42486.17
+"Human Resources",1992,M,43316.85
+"Human Resources",1992,F,43814.29
+"Human Resources",1993,M,44419.21
+"Human Resources",1993,F,45188.98
+"Human Resources",1994,M,48020.06
+"Human Resources",1994,F,46372.79
+"Human Resources",1995,M,49161.39
+"Human Resources",1995,F,47084.66
+"Human Resources",1996,M,50041.42
+"Human Resources",1996,F,47813.78
+"Human Resources",1997,M,51046.97
+"Human Resources",1997,F,48764.45
+"Human Resources",1998,M,50250.60
+"Human Resources",1998,F,49703.58
+"Human Resources",1999,M,51602.10
+"Human Resources",1999,F,50823.26
+"Human Resources",2000,M,57180.79
+"Human Resources",2000,F,52911.55
+"Human Resources",2001,M,59150.86
+"Human Resources",2001,F,54962.18
+"Human Resources",2002,M,61449.24
+"Human Resources",2002,F,56501.56
+Production,1990,M,45269.05
+Production,1990,F,45138.16
+Production,1991,M,46446.64
+Production,1991,F,46309.19
+Production,1992,M,47582.76
+Production,1992,F,47214.69
+Production,1993,M,48724.61
+Production,1993,F,48482.06
+Production,1994,M,52590.55
+Production,1994,F,49349.21
+Production,1995,M,53527.26
+Production,1995,F,50276.05
+Production,1996,M,54461.46
+Production,1996,F,51357.65
+Production,1997,M,55491.81
+Production,1997,F,52261.68
+Production,1998,M,54637.81
+Production,1998,F,53345.36
+Production,1999,M,55989.69
+Production,1999,F,54263.07
+Production,2000,M,61605.93
+Production,2000,F,56190.65
+Production,2001,M,63642.94
+Production,2001,F,58403.74
+Production,2002,M,65608.67
+Production,2002,F,60467.83
+Development,1990,M,45764.32
+Development,1990,F,45610.85
+Development,1991,M,46596.06
+Development,1991,F,46623.26
+Development,1992,M,47629.32
+Development,1992,F,47389.42
+Development,1993,M,48628.51
+Development,1993,F,48511.89
+Development,1994,M,52597.50
+Development,1994,F,49572.48
+Development,1995,M,53570.37
+Development,1995,F,50397.55
+Development,1996,M,54600.03
+Development,1996,F,51329.42
+Development,1997,M,55603.54
+Development,1997,F,52164.69
+Development,1998,M,54768.88
+Development,1998,F,53232.17
+Development,1999,M,56026.85
+Development,1999,F,54359.81
+Development,2000,M,61562.88
+Development,2000,F,56297.66
+Development,2001,M,63674.08
+Development,2001,F,58424.18
+Development,2002,M,65813.90
+Development,2002,F,60260.34
+"Quality Management",1990,M,42991.80
+"Quality Management",1990,F,43468.01
+"Quality Management",1991,M,45221.94
+"Quality Management",1991,F,44595.49
+"Quality Management",1992,M,45813.23
+"Quality Management",1992,F,45900.70
+"Quality Management",1993,M,46487.68
+"Quality Management",1993,F,46704.83
+"Quality Management",1994,M,50517.67
+"Quality Management",1994,F,47438.31
+"Quality Management",1995,M,51656.11
+"Quality Management",1995,F,48211.26
+"Quality Management",1996,M,52484.49
+"Quality Management",1996,F,49262.54
+"Quality Management",1997,M,53448.81
+"Quality Management",1997,F,50224.05
+"Quality Management",1998,M,52442.07
+"Quality Management",1998,F,51014.05
+"Quality Management",1999,M,53884.69
+"Quality Management",1999,F,51940.34
+"Quality Management",2000,M,59421.57
+"Quality Management",2000,F,53863.33
+"Quality Management",2001,M,61657.05
+"Quality Management",2001,F,55946.66
+"Quality Management",2002,M,63650.47
+"Quality Management",2002,F,57629.97
+Sales,1990,M,67413.76
+Sales,1990,F,67448.70
+Sales,1991,M,68846.84
+Sales,1991,F,67270.69
+Sales,1992,M,69628.75
+Sales,1992,F,68333.47
+Sales,1993,M,70643.11
+Sales,1993,F,69328.25
+Sales,1994,M,74672.25
+Sales,1994,F,70368.89
+Sales,1995,M,75392.29
+Sales,1995,F,71582.74
+Sales,1996,M,76194.49
+Sales,1996,F,72539.82
+Sales,1997,M,77031.56
+Sales,1997,F,73673.18
+Sales,1998,M,76140.20
+Sales,1998,F,74629.33
+Sales,1999,M,77413.62
+Sales,1999,F,75489.05
+Sales,2000,M,83072.84
+Sales,2000,F,77469.37
+Sales,2001,M,85173.86
+Sales,2001,F,79553.59
+Sales,2002,M,87113.29
+Sales,2002,F,81513.38
+Research,1990,M,46638.34
+Research,1990,F,47005.88
+Research,1991,M,46843.79
+Research,1991,F,46979.08
+Research,1992,M,47339.88
+Research,1992,F,47635.95
+Research,1993,M,48624.61
+Research,1993,F,48588.29
+Research,1994,M,52723.48
+Research,1994,F,49742.10
+Research,1995,M,53567.51
+Research,1995,F,50420.71
+Research,1996,M,54667.78
+Research,1996,F,51633.22
+Research,1997,M,55841.00
+Research,1997,F,52388.12
+Research,1998,M,55095.75
+Research,1998,F,53413.43
+Research,1999,M,56363.11
+Research,1999,F,54685.89
+Research,2000,M,61922.89
+Research,2000,F,56551.97
+Research,2001,M,64006.22
+Research,2001,F,58615.66
+Research,2002,M,66512.30
+Research,2002,F,60821.50
+"Customer Service",1990,M,44414.06
+"Customer Service",1990,F,44814.29
+"Customer Service",1991,M,45559.61
+"Customer Service",1991,F,45064.92
+"Customer Service",1992,M,47072.03
+"Customer Service",1992,F,46912.41
+"Customer Service",1993,M,48258.55
+"Customer Service",1993,F,48566.83
+"Customer Service",1994,M,52224.26
+"Customer Service",1994,F,49391.65
+"Customer Service",1995,M,53229.88
+"Customer Service",1995,F,50205.51
+"Customer Service",1996,M,54163.48
+"Customer Service",1996,F,51306.14
+"Customer Service",1997,M,55053.94
+"Customer Service",1997,F,52383.74
+"Customer Service",1998,M,53932.73
+"Customer Service",1998,F,53280.83
+"Customer Service",1999,M,55340.74
+"Customer Service",1999,F,54233.42
+"Customer Service",2000,M,61004.78
+"Customer Service",2000,F,56243.48
+"Customer Service",2001,M,63213.53
+"Customer Service",2001,F,58277.64
+"Customer Service",2002,M,66075.16
+"Customer Service",2002,F,60588.55
